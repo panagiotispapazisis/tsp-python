@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="757">
+        <Placemark id="759">
+            <name>Marker 1</name>
+            <description>POINT_X: 22.789564808508825
+POINT_Y: 39.43468301072137</description>
+            <Point id="758">
+                <coordinates>22.789564808508825,39.43468301072137,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="761">
+            <name>Marker 2</name>
+            <description>POINT_X: 22.788820697388587
+POINT_Y: 39.435451567851594</description>
+            <Point id="760">
+                <coordinates>22.788820697388587,39.435451567851594,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="763">
+            <name>Marker 3</name>
+            <description>POINT_X: 22.790189123450478
+POINT_Y: 39.434478786487915</description>
+            <Point id="762">
+                <coordinates>22.790189123450478,39.434478786487915,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="765">
+            <name>Marker 4</name>
+            <description>POINT_X: 22.789512163369942
+POINT_Y: 39.43610817716371</description>
+            <Point id="764">
+                <coordinates>22.789512163369942,39.43610817716371,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="767">
+            <name>Marker 5</name>
+            <description>POINT_X: 22.789602260105788
+POINT_Y: 39.43363280628662</description>
+            <Point id="766">
+                <coordinates>22.789602260105788,39.43363280628662,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="769">
+            <name>Marker 6</name>
+            <description>POINT_X: 22.790023324442704
+POINT_Y: 39.43525352625121</description>
+            <Point id="768">
+                <coordinates>22.790023324442704,39.43525352625121,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="771">
+            <name>Marker 7</name>
+            <description>POINT_X: 22.788810196848438
+POINT_Y: 39.43469232032709</description>
+            <Point id="770">
+                <coordinates>22.788810196848438,39.43469232032709,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="773">
+            <name>Marker 8</name>
+            <description>POINT_X: 22.7909685570153
+POINT_Y: 39.434136471322844</description>
+            <Point id="772">
+                <coordinates>22.7909685570153,39.434136471322844,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="775">
+            <name>Marker 9</name>
+            <description>POINT_X: 22.790302689568335
+POINT_Y: 39.43386733125995</description>
+            <Point id="774">
+                <coordinates>22.790302689568335,39.43386733125995,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="777">
+            <name>Marker 10</name>
+            <description>POINT_X: 22.788226575827785
+POINT_Y: 39.43547392936069</description>
+            <Point id="776">
+                <coordinates>22.788226575827785,39.43547392936069,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="779">
+            <name>Marker 11</name>
+            <description>POINT_X: 22.7894066674471
+POINT_Y: 39.43552603850234</description>
+            <Point id="778">
+                <coordinates>22.7894066674471,39.43552603850234,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="781">
+            <name>Marker 12</name>
+            <description>POINT_X: 22.790589053650407
+POINT_Y: 39.43459418934515</description>
+            <Point id="780">
+                <coordinates>22.790589053650407,39.43459418934515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="783">
+            <name>Marker 13</name>
+            <description>POINT_X: 22.789415854779723
+POINT_Y: 39.43436487019009</description>
+            <Point id="782">
+                <coordinates>22.789415854779723,39.43436487019009,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="785">
+            <name>Marker 14</name>
+            <description>POINT_X: 22.78965858266246
+POINT_Y: 39.43580288919254</description>
+            <Point id="784">
+                <coordinates>22.78965858266246,39.43580288919254,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="787">
+            <name>Marker 15</name>
+            <description>POINT_X: 22.788468625352557
+POINT_Y: 39.43523653333971</description>
+            <Point id="786">
+                <coordinates>22.788468625352557,39.43523653333971,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="789">
+            <name>Marker 16</name>
+            <description>POINT_X: 22.789754650070254
+POINT_Y: 39.43498340625711</description>
+            <Point id="788">
+                <coordinates>22.789754650070254,39.43498340625711,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="791">
+            <name>Marker 17</name>
+            <description>POINT_X: 22.789190651986047
+POINT_Y: 39.43480678933789</description>
+            <Point id="790">
+                <coordinates>22.789190651986047,39.43480678933789,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="793">
+            <name>Marker 18</name>
+            <description>POINT_X: 22.789728290466893
+POINT_Y: 39.43403418991232</description>
+            <Point id="792">
+                <coordinates>22.789728290466893,39.43403418991232,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="795">
+            <name>Marker 19</name>
+            <description>POINT_X: 22.789166092088667
+POINT_Y: 39.43414016006385</description>
+            <Point id="794">
+                <coordinates>22.789166092088667,39.43414016006385,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="797">
+            <name>Marker 20</name>
+            <description>POINT_X: 22.79038738880388
+POINT_Y: 39.434810241999465</description>
+            <Point id="796">
+                <coordinates>22.79038738880388,39.434810241999465,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="799">
+            <name>Marker 21</name>
+            <description>POINT_X: 22.789262098960247
+POINT_Y: 39.43594643324821</description>
+            <Point id="798">
+                <coordinates>22.789262098960247,39.43594643324821,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="801">
+            <name>Marker 22</name>
+            <description>POINT_X: 22.790423382923457
+POINT_Y: 39.434243136299045</description>
+            <Point id="800">
+                <coordinates>22.790423382923457,39.434243136299045,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="803">
+            <name>Marker 23</name>
+            <description>POINT_X: 22.7899819272253
+POINT_Y: 39.43474809409105</description>
+            <Point id="802">
+                <coordinates>22.7899819272253,39.43474809409105,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="805">
+            <name>Marker 24</name>
+            <description>POINT_X: 22.788909185478822
+POINT_Y: 39.435839203689106</description>
+            <Point id="804">
+                <coordinates>22.788909185478822,39.435839203689106,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="807">
+            <name>Marker 25</name>
+            <description>POINT_X: 22.78992268577586
+POINT_Y: 39.4355653125278</description>
+            <Point id="806">
+                <coordinates>22.78992268577586,39.4355653125278,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="809">
+            <name>Marker 26</name>
+            <description>POINT_X: 22.788576260542477
+POINT_Y: 39.43565214462306</description>
+            <Point id="808">
+                <coordinates>22.788576260542477,39.43565214462306,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="811">
+            <name>Marker 27</name>
+            <description>POINT_X: 22.78942533544991
+POINT_Y: 39.43509650305626</description>
+            <Point id="810">
+                <coordinates>22.78942533544991,39.43509650305626,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="813">
+            <name>Marker 28</name>
+            <description>POINT_X: 22.789127594618666
+POINT_Y: 39.43525889484881</description>
+            <Point id="812">
+                <coordinates>22.789127594618666,39.43525889484881,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="815">
+            <name>Marker 29</name>
+            <description>POINT_X: 22.789941093294907
+POINT_Y: 39.433731595110366</description>
+            <Point id="814">
+                <coordinates>22.789941093294907,39.433731595110366,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="817">
+            <name>Marker 30</name>
+            <description>POINT_X: 22.78902684099586
+POINT_Y: 39.43444377062858</description>
+            <Point id="816">
+                <coordinates>22.78902684099586,39.43444377062858,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="819">
+            <name>Marker 31</name>
+            <description>POINT_X: 22.79007480829176
+POINT_Y: 39.43411227318187</description>
+            <Point id="818">
+                <coordinates>22.79007480829176,39.43411227318187,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="821">
+            <name>Marker 32</name>
+            <description>POINT_X: 22.79077973123978
+POINT_Y: 39.434366689464774</description>
+            <Point id="820">
+                <coordinates>22.79077973123978,39.434366689464774,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="823">
+            <name>Marker 33</name>
+            <description>POINT_X: 22.789799399516216
+POINT_Y: 39.434388988574504</description>
+            <Point id="822">
+                <coordinates>22.789799399516216,39.434388988574504,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="825">
+            <name>Marker 34</name>
+            <description>POINT_X: 22.788572266105913
+POINT_Y: 39.43493596650385</description>
+            <Point id="824">
+                <coordinates>22.788572266105913,39.43493596650385,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="827">
+            <name>Marker 35</name>
+            <description>POINT_X: 22.78886677654786
+POINT_Y: 39.43507636253038</description>
+            <Point id="826">
+                <coordinates>22.78886677654786,39.43507636253038,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="829">
+            <name>Marker 36</name>
+            <description>POINT_X: 22.789130368601565
+POINT_Y: 39.435622148649166</description>
+            <Point id="828">
+                <coordinates>22.789130368601565,39.435622148649166,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="831">
+            <name>Marker 37</name>
+            <description>POINT_X: 22.789411442982704
+POINT_Y: 39.43393300036912</description>
+            <Point id="830">
+                <coordinates>22.789411442982704,39.43393300036912,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="833">
+            <name>Marker 38</name>
+            <description>POINT_X: 22.789680767403752
+POINT_Y: 39.435358611578316</description>
+            <Point id="832">
+                <coordinates>22.789680767403752,39.435358611578316,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="835">
+            <name>Marker 39</name>
+            <description>POINT_X: 22.790643920396583
+POINT_Y: 39.43402050748155</description>
+            <Point id="834">
+                <coordinates>22.790643920396583,39.43402050748155,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="837">
+            <name>Marker 40</name>
+            <description>POINT_X: 22.79024720118026
+POINT_Y: 39.43507805264444</description>
+            <Point id="836">
+                <coordinates>22.79024720118026,39.43507805264444,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

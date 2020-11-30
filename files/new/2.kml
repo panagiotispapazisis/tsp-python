@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+<name>Path</name>
+<open>1</open>
+<description>Path coordinates of optimal path</description>
+<StyleMap id="msn_ylw-pushpin">
+<Pair>
+<key>normal</key>
+<styleUrl>#sn_ylw-pushpin</styleUrl>
+</Pair>
+<Pair>
+<key>highlight</key>
+<styleUrl>#sh_ylw-pushpin</styleUrl>
+</Pair>
+</StyleMap>
+<Style id="s_ylw-pushpin_hl">
+<IconStyle>
+<scale>1.3</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/paddle/S.png</href>
+</Icon>
+<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+</IconStyle>
+<LabelStyle>
+<color>ffffaa55</color>
+</LabelStyle>
+<ListStyle>
+<ItemIcon>
+<href>http://maps.google.com/mapfiles/kml/paddle/S-lv.png</href>
+</ItemIcon>
+</ListStyle>
+</Style>
+<Style id="e_ylw-pushpin">
+<IconStyle>
+<scale>1.1</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/paddle/E.png</href>
+</Icon>
+<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+</IconStyle>
+<LabelStyle>
+<color>ffffaa55</color>
+</LabelStyle>
+<ListStyle>
+<ItemIcon>
+<href>http://maps.google.com/mapfiles/kml/paddle/E-lv.png</href>
+</ItemIcon>
+</ListStyle>
+</Style>
+<Style id="s_ylw-pushpin">
+<IconStyle>
+<scale>1.1</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/paddle/S.png</href>
+</Icon>
+<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+</IconStyle>
+<LabelStyle>
+<color>ffffaa55</color>
+</LabelStyle>
+<ListStyle>
+<ItemIcon>
+<href>http://maps.google.com/mapfiles/kml/paddle/S-lv.png</href>
+</ItemIcon>
+</ListStyle>
+</Style>
+<Style id="sn_ylw-pushpin">
+<LineStyle>
+<color>ff00ac39</color>
+<width>5</width>
+<opacity>100</opacity>
+</LineStyle>
+<PolyStyle>
+<color>b3ffff55</color>
+</PolyStyle>
+</Style>
+<Style id="sh_ylw-pushpin">
+<IconStyle>
+</IconStyle>
+<LineStyle>
+<color>ff00ac39</color>
+<width>5</width>
+<opacity>100</opacity>
+</LineStyle>
+<PolyStyle>
+<color>b3ffff55</color>
+</PolyStyle>
+</Style>
+<Style id="e_ylw-pushpin_hl">
+<IconStyle>
+<scale>1.3</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/paddle/E.png</href>
+</Icon>
+<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+</IconStyle>
+<LabelStyle>
+<color>ffffaa55</color>
+</LabelStyle>
+<ListStyle>
+<ItemIcon>
+<href>http://maps.google.com/mapfiles/kml/paddle/E-lv.png</href>
+</ItemIcon>
+</ListStyle>
+</Style>
+<StyleMap id="m_ylw-pushpin">
+<Pair>
+<key>normal</key>
+<styleUrl>#e_ylw-pushpin</styleUrl>
+</Pair>
+<Pair>
+<key>highlight</key>
+<styleUrl>#e_ylw-pushpin_hl</styleUrl>
+</Pair>
+</StyleMap>
+<StyleMap id="m_ylw-pushpin0">
+<Pair>
+<key>normal</key>
+<styleUrl>#s_ylw-pushpin</styleUrl>
+</Pair>
+<Pair>
+<key>highlight</key>
+<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+</Pair>
+</StyleMap>
+<Folder>
+<name>Placemarks</name>
+<open>1</open>
+<Placemark>
+<name>Optimal Path</name>
+<description>The Optimal path</description>
+<LookAt>
+<longitude>
+<!--lookatspotLong-->
+</longitude>
+<latitude>
+<!--lookatspotLat-->
+</latitude>
+<altitude>
+<!--lookatspotAlt-->
+</altitude>
+<heading>0</heading>
+<tilt>45</tilt>
+<range>450</range>
+</LookAt>
+<styleUrl>#msn_ylw-pushpin</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<coordinates>
+<!--pathCoords-->
+22.7806711601,39.4453161057,50
+22.7803199737,39.4450745546,50
+22.7799184111,39.4450241484,50
+22.7794323408,39.4447824298,50
+22.7793886238,39.4443226357,50
+22.7789938086,39.444556978,50
+22.7786108757,39.4443842712,50
+22.7782258659,39.4442493107,50
+22.7778514912,39.4441082133,50
+22.7781129953,39.4437617428,50
+22.7783728,39.4433893712,50
+22.7787738067,39.4435359518,50
+22.7785321808,39.4439063483,50
+22.7789957082,39.4440342372,50
+22.7791790733,39.4436617882,50
+22.7795326512,39.4438731218,50
+22.7799325773,39.4439690583,50
+22.7798438909,39.4443345844,50
+22.7798526621,39.4446946624,50
+22.7803020561,39.4441603825,50
+22.7806917718,39.4443277973,50
+22.7810539881,39.4444727533,50
+22.7814298122,39.4446211308,50
+22.7817471226,39.4447695814,50
+22.7814545987,39.4451301763,50
+22.7811667914,39.4455028331,50
+22.7809976237,39.4451764331,50
+22.7811032383,39.4448545385,50
+22.7806816047,39.4448196242,50
+22.7802921957,39.4445911633,50
+</coordinates>
+</LineString>
+</Placemark>
+</Folder>
+<Folder>
+<name>Start</name>
+<Style id="s_ylw-pushpin">
+<IconStyle>
+<scale>1.1</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/paddle/S.png</href>
+</Icon>
+<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+</IconStyle>
+<LabelStyle>
+<color>ffffaa55</color>
+</LabelStyle>
+<ListStyle>
+<listItemType>check</listItemType>
+<ItemIcon>
+<state>open closed error fetching0 fetching1 fetching2</state>
+<href>http://maps.google.com/mapfiles/kml/paddle/S-lv.png</href>
+</ItemIcon>
+<bgColor>00ffffff</bgColor>
+<maxSnippetLines>2</maxSnippetLines>
+</ListStyle>
+</Style>
+<Placemark>
+<name>Start</name>
+<styleUrl>#m_ylw-pushpin0</styleUrl>
+<Point>
+<coordinates>
+<!--startCoords-->
+22.7802921957,39.4445911633,50
+</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder>
+<name>End</name>
+<Style id="e_ylw-pushpin">
+<IconStyle>
+<scale>1.1</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/paddle/E.png</href>
+</Icon>
+<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+</IconStyle>
+<LabelStyle>
+<color>ffffaa55</color>
+</LabelStyle>
+<ListStyle>
+<listItemType>check</listItemType>
+<ItemIcon>
+<state>open closed error fetching0 fetching1 fetching2</state>
+<href>http://maps.google.com/mapfiles/kml/paddle/E-lv.png</href>
+</ItemIcon>
+<bgColor>00ffffff</bgColor>
+<maxSnippetLines>2</maxSnippetLines>
+</ListStyle>
+</Style>
+<Placemark>
+<name>End</name>
+<styleUrl>#m_ylw-pushpin</styleUrl>
+<Point>
+<coordinates>
+<!--endCoords-->
+22.7806711601,39.4453161057,50
+</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>
